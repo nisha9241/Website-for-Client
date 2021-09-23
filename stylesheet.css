@@ -1,0 +1,30 @@
+
+h1 {
+color: rgb(12, 6, 6);
+border-style: ridge; border-color: rgb(26, 25, 25);text-align: center; background-color: rgb(214, 176, 222);
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+h2 {
+    font-family: cursive;
+}
+
+
+p {
+    font-size: 25px;
+    color: rgb(26, 9, 102);
+}
+p1 {
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p2 {
+    font-size: 25px;
+    color: rgb(26, 9, 102);
+}
+   p3 {
+       font-size: 23px;
+      
+       
+} 
+
+
